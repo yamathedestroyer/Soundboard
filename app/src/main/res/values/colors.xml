@@ -3,4 +3,8 @@
     <color name="colorPrimary">#fafafa</color>
     <color name="colorPrimaryDark">#efefef</color>
     <color name="colorAccent">#212121</color>
+
+    <color name="textColorDark">#212121</color>
+
+    <color name="background_fucktard_deluxe">#4A929C</color>
 </resources>
